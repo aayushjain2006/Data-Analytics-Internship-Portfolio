@@ -1,4 +1,5 @@
-# 📊 Exploratory Data Analysis on Superstore Dataset
+<h1 align="center">📊 Exploratory Data Analysis on Superstore Dataset</h1>
+
 
 ## 🛠️ Technology Stack
 

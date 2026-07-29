@@ -1,4 +1,4 @@
-# 📊 Superstore Sales Data Analysis
+<h1 align="center">📊 Superstore Sales Data Analysis</h1>
 
 ## 📌 Project Overview
 

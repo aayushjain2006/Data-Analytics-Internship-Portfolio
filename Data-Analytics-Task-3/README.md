@@ -1,4 +1,4 @@
-# Superstore Deep-Dive Analysis & Interactive Dashboard
+<h1 align="center">📊 Superstore Deep-Dive Analysis & Interactive Dashboard</h1>
 
 ## Project Overview
 
