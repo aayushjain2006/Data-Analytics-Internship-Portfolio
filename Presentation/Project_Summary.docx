@@ -1,0 +1,108 @@
+Superstore Sales Analysis: Data Storytelling & Statistical Validation
+Executive Summary
+
+This project analyzes the Superstore sales dataset to identify key business trends, customer behavior, product performance, and profitability. Using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn, the dataset was cleaned, explored, and visualized to generate meaningful business insights. Statistical hypothesis testing was also performed to validate whether the average profit of the Technology category differs significantly from the Furniture category. The findings provide data-driven recommendations that can help improve business performance and support better decision-making.
+Project Objective
+The main objective of this project is to analyze the Superstore sales data and identify important business insights related to sales, profit, customers, regions, product categories, and shipping methods. The project also validates business findings using statistical hypothesis testing.
+Business Problem
+The Superstore operates across multiple regions, customer segments, and product categories. Management requires insights to answer the following questions:
+
+Which region generates the highest sales?
+Which product category earns the highest profit?
+Which customer segment contributes the most revenue?
+Which products perform the best?
+How do discounts affect profitability?
+Is there a statistically significant difference in profit between Technology and Furniture products?
+
+This project aims to answer these questions through data analysis and statistical validation.
+
+Dataset Overview
+Attribute	Details
+Dataset Name	Superstore Cleaned Dataset
+Total Records	9,994
+Total Columns	21
+Missing Values	0
+Duplicate Records	0
+
+The dataset contains information about customer orders, product categories, sales, profits, discounts, shipping methods, and geographical locations.
+
+Methodology
+
+The project was completed using the following workflow:
+
+Data Loading
+Data Understanding
+Data Cleaning
+Exploratory Data Analysis (EDA)
+Data Visualization
+Business Insight Generation
+Statistical Hypothesis Testing
+Business Recommendations
+Exploratory Data Analysis
+
+Several visualizations were created to understand business performance, including:
+
+Sales by Region
+Profit by Category
+Sales by Customer Segment
+Monthly Sales Trend
+Top 10 Products by Sales
+Top 10 Customers by Sales
+Discount vs Profit Analysis
+Correlation Heatmap
+Sales by Shipping Mode
+Top 10 States by Sales
+
+These visualizations helped identify trends, customer behavior, and profitable business areas.
+
+Key Business Insights
+
+The analysis revealed the following important findings:
+
+The West region generated the highest total sales.
+California recorded the highest sales among all states.
+The Technology category produced the highest overall profit.
+The Consumer segment generated the highest sales.
+Standard Class was the most frequently used shipping mode.
+Sean Miller was identified as the highest-value customer.
+The Canon imageCLASS 2200 Advanced Copier was the top-selling product.
+Total Sales: 2,297,200.86
+Average Profit: 28.66
+Average Discount: 16%
+Hypothesis Testing
+Null Hypothesis (H₀)
+
+There is no significant difference in average profit between Technology and Furniture products.
+
+Alternative Hypothesis (H₁)
+
+There is a significant difference in average profit between Technology and Furniture products.
+
+Statistical Test Used
+
+Independent Two-Sample Welch's T-Test
+
+Results
+T-Statistic: 6.7320
+P-Value: 0.000000
+Decision
+
+Since the p-value is less than the significance level (0.05), the null hypothesis is rejected.
+
+Interpretation
+
+The analysis confirms that the average profit of Technology products is significantly different from that of Furniture products. Based on this dataset, Technology products are more profitable and should receive greater business attention.
+
+Business Recommendations
+
+Based on the analysis, the following recommendations are suggested:
+
+Increase investment in Technology products because they generate higher profits.
+Focus marketing efforts on the West region, where sales are highest.
+Strengthen customer retention strategies for high-value customers such as Sean Miller.
+Review discount policies to maximize profitability while maintaining customer satisfaction.
+Continue improving Standard Class shipping efficiency, as it is the most commonly used shipping method.
+Expand business operations in high-performing states, especially California.
+Conclusion
+
+The Superstore Sales Analysis successfully transformed raw business data into meaningful insights using data analytics and statistical validation. The project identified key revenue-generating regions, profitable product categories, valuable customer segments, and major sales trends. The hypothesis testing confirmed a statistically significant difference in profitability between Technology and Furniture products. These findings demonstrate how data-driven analysis can support informed business decisions, improve operational efficiency, and guide future growth strategies.

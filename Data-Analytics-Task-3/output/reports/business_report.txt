@@ -1,0 +1,26 @@
+SUPERSTORE DEEP-DIVE ANALYSIS REPORT
+
+Project:
+Deep-Dive Analysis & Interactive Dashboard
+
+Dataset:
+Superstore Cleaned Dataset
+
+KPIs:
+1. Total Sales: 2297200.86
+2. Total Profit: 286397.02
+3. Total Orders: 5009
+4. Average Order Value: 458.61
+5. Profit Margin: 12.47%
+
+Business Insights:
+• West region generated the highest sales.
+• Technology category produced the highest profit.
+• Consumer segment contributes the highest revenue.
+• Top customers generate a large share of sales.
+• Monthly sales show seasonal trends.
+• Some sub-categories have lower profitability.
+• Customer segmentation helps identify high-value customers.
+
+Conclusion:
+The dashboard provides interactive insights into sales, profit, customer behavior, and business performance, helping stakeholders make better decisions.
