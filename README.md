@@ -1,5 +1,3 @@
-<h1 align="center">📊 Data Analytics Internship Portfolio</h1>
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF99&height=250&section=header&text=DATA%20ANALYTICS%20PORTFOLIO&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
 </p>
